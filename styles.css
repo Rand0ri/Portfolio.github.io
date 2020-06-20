@@ -157,6 +157,10 @@ main#home h1 {
   color: lightskyblue;
 }
 
+.skills-icons .fab.fa-vuejs {
+  color: #3CB371;
+}
+
 .skills-icons .fab.fa-bootstrap {
   color: rgba(128, 0, 128, 0.644);
 }
